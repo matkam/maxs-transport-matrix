@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MAXS Matrix Transport</string>
+    <string name="pref_app_debug_log_key">true</string>
+    <string name="version">0.0.1</string>
+    <string name="copyright">glhf</string>
+    <string name="authors">matkam</string>
+    <string name="gplv3">glhf</string>
+    <string name="close">Close</string>
+    <string name="unknown">Unknown</string>
+    <string name="request_permission_info">This MAXS component requires some permissions in order to work correctly. Please grant them in the following menu.</string>
+    <string name="request_permission_denied">Not allowing MAXS the permission will render the component unusable. Denied:</string>
+    <string name="proceed">Proceed</string>
+
+    <string name="master_addresses">Master Addresses</string>
+    <string name="master_addresses_help">Those UIDs will receive notifications from MAXS and are allowed to send commands. To delete an entry simply delete the text, it will get automatically removed.</string>
+    <string name="device_account">Device Account</string>
+    <string name="hint_jid">user@server.tld</string>
+    <string name="excluded_resources">Excluded Resources</string>
+    <string name="hint_resource">resource</string>
+    <string name="password">Password</string>
+    <string name="advancedSettings">Advanced Settings</string>
+    <string name="registerAccount">Register Account</string>
+
+    <string name="pref_app_matrix_intent_key">MATRIX_INTENT</string>
+    <string name="pref_app_matrix_intent_shared_token_key">MATRIX_INTENT_SHARED_TOKEN</string>
+</resources>
